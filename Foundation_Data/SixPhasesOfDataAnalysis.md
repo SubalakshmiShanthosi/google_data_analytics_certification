@@ -30,3 +30,12 @@ What you lean to?
     Analyst - The excellence of an analyst is speed. How quickly can you surf through vast amounts of data to explore it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers?
 
         "Here is a whole lot of data. No one has looked at it before. Go find something interesting"
+
+## Analytical Thinking
+
+Analytical thinking breakdown
+    1. Curiosity => Eagerness to learn and want to learn about data analysis, evolving and improving skills to turn data to insights in fast possible way.
+    2. Understanding context => Understanding context helps you solve problems by narrowing down variables that are most likely to influence the outcome, which in turn enables you to come up with more meaningful insights.
+    3. Technical Mindset => Remember that problems aren't always technical, but a technical mindset is the skill that you use to break down any complex issue into manageable parts. Focusing on implementing a process, regardless of what that looks like, is a great first step to exercising your technical mindset.
+    4. Data design => how you choose to structure your data makes analysis easier and more insightful.
+    5. Data strategy => Think about a data strategy as a kind of resource allocation—the tools, time, and effort that you put into a project will vary based on what you need to accomplish.
