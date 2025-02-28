@@ -1,14 +1,18 @@
 # Structured Thinking
 
 Problem domain - Specific area of analysis that encompasses every activity affecting or affected by the problem.
+
 Structured thinking
     Process of thinking current problem or situation
     Organizing available information
     Revealing gaps or opportunities
     Identifying the options
+
 Allows to understand the problem at high level - so that we can find out areas which need deeper understanding.
+
 Starting place of structured thinking is the problem domain.
 Avoid rework by - Scope of Work (SoW) - Agreed upon outline of the work you are performing on a project.
+
 Work details, schedule and reports.
 SOW for data analyst - Deliverables, Timeline, Milestones, Reports.
 
@@ -20,12 +24,14 @@ Question:
     which may include descriptions of your deliverables, timelines, milestones, and reports?
 
 Response:
+
     Identifying project requirement is to find the problem domain by finding out the problem in the system / process to be improved.
     After finding the problem domain - structured thinking on building Scope-of-Work is neccessary to formulate step-by-step
     approach of Setting timeline of the data analytics process, what milestones are along the timeline,
     How are the reports to be given and planned for rollout to customers.
 
 Data becomes more valuable when it's diagnostic (why did it happen?) and predictive (what will happen?) than descriptive (what happened?)
+
 Even more valuable when it's prescriptive (how can we make it happen?)
 
 Data collection => Who, What, When, Where, How and Why?

@@ -9,7 +9,10 @@ Strategies to effective communication with people
 
 ## Data Process Work
 
-Example case study - new joiners onboarding program improvement - how to onboard faster? how to improve the process than previous year?
+Example case study - new joiners onboarding program improvement - how to onboard faster?
+
+How to improve the process than previous year?
+
 Data process -
     1. Understand the data population - Control group, experiment group, sample set
     2. Data sources - make sure that it was in a set - format was clean and digestible to write scripts on it

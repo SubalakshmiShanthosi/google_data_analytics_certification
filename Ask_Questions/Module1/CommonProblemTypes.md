@@ -1,6 +1,7 @@
 # Common Data Analyst Problem Types
 
 Six common types of problems
+
     1. Making predictions - Using data to make **informed** decisions maybe in future.
     2. Categorizing things - Assigning information to different groups or structures based on **common** features.
     3. Spotting something unusual - Identifying data that is different from the norm.
